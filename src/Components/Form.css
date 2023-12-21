@@ -1,0 +1,17 @@
+.studentform{
+/* padding-top: 90px;     */
+width: 600px;
+height: 00px;
+margin-left: 400px;
+border-radius: 20px;
+}
+.Student-management-box-header{
+    margin-left: 100px;
+}
+.Form-screen{
+    background-image: url("https://storage.pixteller.com/designs/designs-images/2019-03-27/05/simple-background-backgrounds-passion-simple-1-5c9b95d2d9f93.png");
+    display: flex;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}

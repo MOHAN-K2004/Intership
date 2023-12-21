@@ -1,0 +1,64 @@
+.login-box{
+    background-image: url("https://storage.pixteller.com/designs/designs-images/2019-03-27/05/simple-background-backgrounds-passion-simple-1-5c9b95d2d9f93.png");
+    display: flex;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+.login-container{
+    height: 300px;
+    width: 400px;
+    background-color: rgba(255, 0, 0, 0);
+    margin-top: 50px;
+    margin-left: 50px;
+    border: 2px solid #5ac2ab;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    
+    
+}
+
+.login-inputs h4{
+color: #3bbfd8;
+font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.login-inputs p u{
+   color: green;
+   cursor: pointer;
+}
+.login-inputs p{
+   font-size: 10px;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.login-inputs{
+    margin-left: 40px;
+    
+}
+.login-inputs input{
+    height: 30px;
+    width: 270px;
+    border-radius: 4px;
+    border: 2px solid #3bbfd8;
+}
+.login-container button{
+    margin-top: 0px;
+    margin-left: 130px;
+    height: 30px;
+    width: 100px;
+    border-radius: 4px;
+    background-color:#e8ff81;
+    cursor: pointer;
+    border: 1px solid rgb(255, 115, 0);
+}
+.login-box h1{
+    margin-top: 200px;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.login-box{
+    display: flex;
+    align-items: center;
+
+    flex-direction: column;
+}

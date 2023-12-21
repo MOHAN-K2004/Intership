@@ -1,0 +1,36 @@
+.navbarbox{
+    height: 70px;
+    width: 100vw;
+    box-shadow: rgba(0, 0, 0, 0.15) 0px 3px 3px 0px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(74, 170, 189);
+    position: fixed;
+}
+.navbarbox-left{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 30px;
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.navbarbox-right p{
+    margin-left: 20px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    cursor: pointer;
+    color: white;
+}
+.navbarbox-right{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding-right: 30px;
+}
+.navbarbox-left-management{
+    color:deeppink;
+}
